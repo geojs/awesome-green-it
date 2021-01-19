@@ -1,6 +1,6 @@
 # awesome-green-it
 
-Une liste le liens sur [l'éco-TIC](https://fr.wikipedia.org/wiki/Informatique_durable) (green IT en anglais).
+Une liste de liens sur [l'éco-TIC](https://fr.wikipedia.org/wiki/Informatique_durable) (green IT en anglais).
 
 ## Communautés
 
@@ -27,7 +27,7 @@ Une liste le liens sur [l'éco-TIC](https://fr.wikipedia.org/wiki/Informatique_d
 
 ## Magazines
 
-- [Kaizen Numéro Spécial : NUMERIQUE RESPONSABLE](https://boutique.kaizen-magazine.com/hors-serie/645-numero-special-numerique-responsable.html)
+- [Kaizen, Numéro Spécial : NUMERIQUE RESPONSABLE](https://boutique.kaizen-magazine.com/hors-serie/645-numero-special-numerique-responsable.html)
 
 ## Formations
 

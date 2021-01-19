@@ -44,3 +44,4 @@ Une liste de liens sur [l'éco-TIC](https://fr.wikipedia.org/wiki/Informatique_d
 
 ## Awesome lists
 - https://github.com/alvessteve/awesome-green-it/
+- https://gitlab.inria.fr/qguillot/greenit-resources

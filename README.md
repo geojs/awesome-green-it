@@ -27,18 +27,18 @@ Une liste de liens sur [l'éco-TIC](https://fr.wikipedia.org/wiki/Informatique_d
 
 ## Magazines
 
-- [Kaizen, Numéro Spécial : NUMERIQUE RESPONSABLE](https://boutique.kaizen-magazine.com/hors-serie/645-numero-special-numerique-responsable.html)
+- [Kaizen : Numéro Spécial, NUMERIQUE RESPONSABLE](https://boutique.kaizen-magazine.com/hors-serie/645-numero-special-numerique-responsable.html)
 
 ## Formations
 
 - [Green IT : état de l’art, (éco)Conception responsable de service numérique](https://www.greenit.fr/formations/)
-- [Formation Numérique responsable](https://formations.univ-larochelle.fr/formation-numerique-responsable)
+- [Université de la Rochelle : Formation Numérique responsable](https://formations.univ-larochelle.fr/formation-numerique-responsable)
 
 ## Outils
 
 - Développeurs 
-	- [Audit site web par EcoIndex](http://www.ecoindex.fr/)
-  - [Audit Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+  - [Audit site web avec EcoIndex](http://www.ecoindex.fr/)
+  - [Audit site web avec Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
   - [GreenIT-Analysis est une extension pour navigateur qui vous permet de quantifier les impacts environnementaux d'un parcours utilisateur complet](https://github.com/cnumr/GreenIT-Analysis)
 - DevOps
 

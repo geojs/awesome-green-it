@@ -30,10 +30,12 @@ Une liste de liens sur [l'éco-TIC](https://fr.wikipedia.org/wiki/Informatique_d
 - [Kaizen : Numéro Spécial, NUMERIQUE RESPONSABLE](https://boutique.kaizen-magazine.com/hors-serie/645-numero-special-numerique-responsable.html)
 
 ## Formations
-
-- [Green IT : état de l’art, (éco)Conception responsable de service numérique](https://www.greenit.fr/formations/)
-- [Université de la Rochelle : Formation Numérique responsable](https://formations.univ-larochelle.fr/formation-numerique-responsable)
-
+- Payantes
+  - [Green IT : état de l’art, (éco)Conception responsable de service numérique](https://www.greenit.fr/formations/)
+  - [Université de la Rochelle : Formation Numérique responsable](https://formations.univ-larochelle.fr/formation-numerique-responsable)
+- Gratuites 
+  - [Académie Numérique Responsable](https://www.academie-nr.org/)
+  
 ## Outils
 
 - Développeurs 

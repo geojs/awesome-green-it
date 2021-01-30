@@ -65,7 +65,7 @@ The web, as a whole, is a big source of carbon emissions, because it is a big co
 
 - Payantes
   - [Green IT : état de l’art](https://www.greenit.fr/agenda/formation-green-it-etat-de-lart-greenit-fr/) - Green IT
-  -[(éco)Conception responsable de service numérique](https://www.greenit.fr/agenda/formation-eco-conception-web-logiciels/) - Green IT
+  - [(éco)Conception responsable de service numérique](https://www.greenit.fr/agenda/formation-eco-conception-web-logiciels/) - Green IT
   - [Formation Numérique responsable](https://formations.univ-larochelle.fr/formation-numerique-responsable) - Université de la Rochelle 
 - Gratuites 
   - Académie Numérique Responsable

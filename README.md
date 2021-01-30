@@ -81,5 +81,6 @@ The web, as a whole, is a big source of carbon emissions, because it is a big co
 
 ## Awesome lists
 
+- https://github.com/supertanuki/numeriqueEcoResponsable
 - https://github.com/alvessteve/awesome-green-it/
 - https://gitlab.inria.fr/qguillot/greenit-resources

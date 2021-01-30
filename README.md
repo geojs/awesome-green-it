@@ -75,8 +75,8 @@ The web, as a whole, is a big source of carbon emissions, because it is a big co
 ## Outils
 
 - Développeurs 
-  - [EcoIndex](http://www.ecoindex.fr/) - audit site web avec
-  - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - audit site web avec
+  - [EcoIndex](http://www.ecoindex.fr/) - audit site web
+  - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - audit site web
   - [GreenIT-Analysis](https://github.com/cnumr/GreenIT-Analysis) - extension pour navigateur qui vous permet de quantifier les impacts environnementaux d'un parcours utilisateur complet
   - [Estimator](https://estimator.dev/) - calcul le nombre Mo économisé d'un site en utilisant du Javascript "moderne"
 

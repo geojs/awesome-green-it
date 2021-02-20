@@ -15,6 +15,7 @@ Une liste de liens sur [l'éco-TIC](https://fr.wikipedia.org/wiki/Informatique_d
 
 - [Sous le capot de la mesure Ecoindex !](https://blog.octo.com/sous-le-capot-de-la-mesure-ecoindex/) - OCTO Technology - 26 janvier 2021
 - [Introduction à l'écoconception web](https://docs.google.com/presentation/d/e/2PACX-1vSptDclQFtX6S8yy1T3YO3G5-npmejXPhP7qL-72K1K6PgtFqlygfFQledXAqLttOxg6qVU86R4s7A5/pub#slide=id.p) - Vincent Vatelot - 18 novembre 2020
+- [L'écoconception et le "software craftmanship" ?](https://www.barreverte.fr/retour-sur-lean4greenit-2/) - Bruno Thomas - 17 octobre 2018
 
 ## Rapports
 

@@ -20,6 +20,7 @@ Une liste de liens sur [l'éco-TIC](https://fr.wikipedia.org/wiki/Informatique_d
 
 ## Rapports
 
+- Impact environnemental du numérique : tendances à 5 ans et gouvernance de la 5G - The Shift Project, mars 2021 : [Note d'analyse - 47 p.] (https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf) ; [Note de synthèse - 8p.] (https://theshiftproject.org/wp-content/uploads/2021/03/Synthese_Numerique-et-5G_30-mars-2021.pdf) 
 - [Feuille de route du Gouvernement "Numérique & Environnement, faisons converger les transitions"](https://www.economie.gouv.fr/files/files/PDF/2021/Feuille_de_route_Numerique_Environnement.pdf) - 23 février 2021
   - Documents liés à la FdR : [Dossier de presse](https://www.economie.gouv.fr/files/files/PDF/2021/DP_Numerique_Environnement.pdf) + [Communiqué de presse](https://minefi.hosting.augure.com/Augure_Minefi/r/ContenuEnLigne/Download?id=EA63661D-1FA0-41B3-A3B1-F7B5A6E0966D&filename=702%20%E2%80%93%20Nouvelle%20%C3%A9tape%20pour%20faire%20converger%20le%20num%C3%A9rique%20avec%20l%E2%80%99exigence%20environnementale%20-%20le%20Gouvernement%20publie%20sa%20feuille%20de%20route.pdf) 
 - [Rapport de l’Arcep pour un numérique soutenable](https://www.arcep.fr/uploads/tx_gspublication/rapport-pour-un-numerique-soutenable_dec2020.pdf) - 15 décembre 2020

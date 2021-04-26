@@ -9,6 +9,7 @@ Une liste de liens sur [l'éco-TIC](https://fr.wikipedia.org/wiki/Informatique_d
 - [Planet Tech’Care](https://www.planet-techcare.green/)
 - [INR Institut du numérique durable](https://institutnr.org/)
 - [Alliance Green IT](https://alliancegreenit.org/)
+- [EcoInfo](https://ecoinfo.cnrs.fr/)
 - [IT’s on us](https://www.itsonus.fr/)
 
 ## Articles

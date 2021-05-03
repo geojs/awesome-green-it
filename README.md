@@ -42,6 +42,11 @@ Une liste de liens sur [l'éco-TIC](https://fr.wikipedia.org/wiki/Informatique_d
 The web, as a whole, is a big source of carbon emissions, because it is a big consumer of power. New web technologies should not make this situation worse. We will consider power consumption and the resulting emissions when we introduce new technologies to the web."
 - [Livre blanc Numérique et Environnement](https://www.iddri.org/sites/default/files/PDF/Publications/Catalogue%20Iddri/Rapport/livre%20blanc%20num%C3%A9rique%20%C3%A9cologie.pdf) - Iddri, FING, WWF France, GreenIT.fr (2018). 
 
+## Guide pratique
+
+- [Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/)  [(pdf)](https://ecoresponsable.numerique.gouv.fr/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf) - INR -
+ 29 avril 2021 
+ 
 ## Guide bonnes pratiques pour le "grand public"
 
 - [La face cachée du numérique : réduire les impacts du numérique sur l’environnement](https://www.ademe.fr/face-cachee-numerique) - ADEME - janvier 2021 

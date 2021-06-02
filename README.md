@@ -72,6 +72,7 @@ The web, as a whole, is a big source of carbon emissions, because it is a big co
 
 - [Numéro Spécial, NUMERIQUE RESPONSABLE](https://boutique.kaizen-magazine.com/hors-serie/645-numero-special-numerique-responsable.html) - Kaizen - décembre 2020
 - [Passez à l'écologie numérique Numéro : 329](https://www.archimag.com/le-kiosque/mensuel-archimag/mag-329/ecologie-numerique/PDF) - Archimag - novembre 2019
+- [Le poids du clic](https://www.4revues.fr/la-revue-dessinee/114-15-2017-printemps.html) - La Revue Dessinée - printemps 2017
 
 ## Formations
 

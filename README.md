@@ -44,8 +44,8 @@ The web, as a whole, is a big source of carbon emissions, because it is a big co
 
 ## Guide pratique
 
-- [Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/)  [(pdf)](https://ecoresponsable.numerique.gouv.fr/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf) - INR Institut du numérique durable -
- 29 avril 2021 
+- [Guide de questionnement pour le développement de services numériques](https://librairie.ademe.fr/cadic/5702/guide-questionnement-de_developpement-services-numeriques-011501.pdf) - OuiShare, ADEME - 2021
+- [Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/)  [(pdf)](https://ecoresponsable.numerique.gouv.fr/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf) - INR Institut du numérique durable - 29 avril 2021 
  
 ## Guide bonnes pratiques pour le "grand public"
 

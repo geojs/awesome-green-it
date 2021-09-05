@@ -41,6 +41,7 @@ Une liste de liens sur [l'éco-TIC](https://fr.wikipedia.org/wiki/Informatique_d
 "The web must be an environmentally sustainable platform
 The web, as a whole, is a big source of carbon emissions, because it is a big consumer of power. New web technologies should not make this situation worse. We will consider power consumption and the resulting emissions when we introduce new technologies to the web."
 - [Livre blanc Numérique et Environnement](https://www.iddri.org/sites/default/files/PDF/Publications/Catalogue%20Iddri/Rapport/livre%20blanc%20num%C3%A9rique%20%C3%A9cologie.pdf) - Iddri, FING, WWF France, GreenIT.fr (2018). 
+- [Livre blanc L'écoconception des services numériques](https://alliancegreenit.org/media/position-paper-ecoconception-vf-v5-2.pdf) - Alliance Green IT - février 2017
 
 ## Guide pratique
 
@@ -67,6 +68,7 @@ The web, as a whole, is a big source of carbon emissions, because it is a big co
 ## Livres
 
 - [Eco-conception web : les 115 bonnes pratiques](https://ecoconceptionweb.com/)
+- [Sobriété numérique](https://www.buchetchastel.fr/catalogue/sobriete-numerique/)
 
 ## Magazines
 

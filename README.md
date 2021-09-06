@@ -14,6 +14,7 @@ Une liste de liens sur [l'éco-TIC](https://fr.wikipedia.org/wiki/Informatique_d
 
 ## Articles
 
+- [Climat et numérique: pourquoi le mouvement DevOps a un rôle à jouer](https://bpetit.nce.re/fr/2021/08/climat-et-num%C3%A9rique-pourquoi-le-mouvement-devops-a-un-r%C3%B4le-%C3%A0-jouer/) - Benoit Petit - 9 août 2021
 - [Sous le capot de la mesure Ecoindex !](https://blog.octo.com/sous-le-capot-de-la-mesure-ecoindex/) - OCTO Technology - 26 janvier 2021
 - [Introduction à l'écoconception web](https://docs.google.com/presentation/d/e/2PACX-1vSptDclQFtX6S8yy1T3YO3G5-npmejXPhP7qL-72K1K6PgtFqlygfFQledXAqLttOxg6qVU86R4s7A5/pub#slide=id.p) - Vincent Vatelot - 18 novembre 2020
 - [Le langage C ne sera-t-il jamais battu en termes de rapidité d'exécution et de faible consommation d'énergie ?](https://programmation.developpez.com/actu/296868/Le-langage-C-ne-sera-t-il-jamais-battu-en-termes-de-rapidite-d-execution-et-de-faible-consommation-d-energie-Voici-les-resultats-d-une-etude-sur-27-langages-de-programmation-les-plus-populaires/) - Developpez.com - 12 mars 2020
@@ -89,13 +90,19 @@ The web, as a whole, is a big source of carbon emissions, because it is a big co
   
 ## Outils
 
+- Utilisateurs 
+  - [Impactomètre](https://impactometre.fr/) - comparaison d'impact environnemental des réunions.
+  - [Ecodiag](https://ecoinfo.cnrs.fr/ecodiag-calcul/) - cet outil vous permet de facilement renseigner la consommation réelle de vos équipement 
+  - [Calculatrice impact environnemental pro](https://institutnr.org/calculatrice/impact-environnemental-numerique-inr.html) - Decathlon a créé, en partenariat avec l'INR, une calculatrice qui permet de calculer simplement son impact numérique professionnel
+  
 - Développeurs 
   - [EcoIndex](http://www.ecoindex.fr/) - audit site web
-  - [Carbonalyser](https://theshiftproject.org/carbonalyser-extension-navigateur/) - L'extension de navigateur qui révèle combien surfer sur le web coûte au climat
+  - [Carbonalyser](https://theshiftproject.org/carbonalyser-extension-navigateur/) - extension de navigateur qui révèle combien surfer sur le web coûte au climat
   - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - audit site web
   - [GreenIT-Analysis](https://github.com/cnumr/GreenIT-Analysis) - extension pour navigateur qui vous permet de quantifier les impacts environnementaux d'un parcours utilisateur complet
   - [Estimator](https://estimator.dev/) - calcul le nombre Mo économisé d'un site en utilisant du Javascript "moderne"
   - [CodeCarbon](https://github.com/mlco2/codecarbon) - a Python package for tracking the carbon emissions produced by various kinds of computer programs, from straightforward algorithms to deep neural networks
+  
 - DevOps
   - [Argos](https://github.com/marmelab/argos) - docker monitoring experiment, auditing Reporter for Greener Ops Strategies
   - [PowerAPI](http://powerapi.org/) - a middleware toolkit for building software-defined power meters. Software-defined power meters are configurable software libraries that can estimate the power consumption of software in real-time

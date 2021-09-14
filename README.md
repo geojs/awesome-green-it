@@ -48,6 +48,8 @@ The web, as a whole, is a big source of carbon emissions, because it is a big co
 
 - [Guide de questionnement pour le développement de services numériques](https://librairie.ademe.fr/cadic/5702/guide-questionnement-de_developpement-services-numeriques-011501.pdf) - OuiShare, ADEME - 2021
 - [Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/)  [(pdf)](https://ecoresponsable.numerique.gouv.fr/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf) - INR Institut du numérique durable - 29 avril 2021 
+- [2021 Best Practice Guidelines for the EU Code of Conduct on Data Centre Energy Efficiency](https://e3p.jrc.ec.europa.eu/publications/2021-best-practice-guidelines-eu-code-conduct-data-centre-energy-efficiency) - Joint Research Centre (JRC), the European Commission’s science and knowledge
+service - 2021
  
 ## Guide bonnes pratiques pour le "grand public"
 
@@ -94,6 +96,7 @@ The web, as a whole, is a big source of carbon emissions, because it is a big co
   - [Impactomètre](https://impactometre.fr/) - comparaison d'impact environnemental des réunions.
   - [Ecodiag](https://ecoinfo.cnrs.fr/ecodiag-calcul/) - cet outil vous permet de facilement renseigner la consommation réelle de vos équipement 
   - [Calculatrice impact environnemental pro](https://institutnr.org/calculatrice/impact-environnemental-numerique-inr.html) - Decathlon a créé, en partenariat avec l'INR, une calculatrice qui permet de calculer simplement son impact numérique professionnel
+  - [Paper Calculator](https://c.environmentalpaper.org/) - calculez votre impact environnemental de l'impression papier
   
 - Développeurs 
   - [EcoIndex](http://www.ecoindex.fr/) - audit site web

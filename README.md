@@ -100,6 +100,8 @@ service - 2021
   
 - Développeurs 
   - [EcoIndex](http://www.ecoindex.fr/) - audit site web
+  - [Ecometer](http://ecometer.org/) - a tool for assessing websites' ecodesign maturity
+  - [Collectif Conception Numérique Responsable](https://github.com/cnumr/SonarQube) -  linter js et plugin Sonarqube qui permettent d'intégrer les règles de GreenIT
   - [Carbonalyser](https://theshiftproject.org/carbonalyser-extension-navigateur/) - extension de navigateur qui révèle combien surfer sur le web coûte au climat
   - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - audit site web
   - [GreenIT-Analysis](https://github.com/cnumr/GreenIT-Analysis) - extension pour navigateur qui vous permet de quantifier les impacts environnementaux d'un parcours utilisateur complet

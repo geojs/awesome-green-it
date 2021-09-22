@@ -1,6 +1,6 @@
 # awesome-green-it
 
-Une liste de liens sur [l'éco-TIC](https://fr.wikipedia.org/wiki/Informatique_durable) (green IT en anglais).
+Une liste de liens sur le [numérique responsable](https://www.greenit.fr/definition/).
 
 ## Communautés
 

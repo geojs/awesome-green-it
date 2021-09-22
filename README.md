@@ -59,6 +59,7 @@ service - 2021
 
 ## Emissions 
 
+- [Quel impact a le matériel sur notre planète et peut-on faire plus écologique ?](https://lydra.fr/rdo-15-hardware-et-pollution/) - lydra artisans DevOps - 25 mars 2021
 - [Le numérique peut-il être écologique et responsable ?](https://www.franceculture.fr/emissions/de-cause-a-effets-le-magazine-de-lenvironnement/de-cause-a-effets-le-magazine-de-lenvironnement-du-mardi-05-janvier-2021) - France Culture - 05 janvier 2021
 - [Colloque Sobriété Numérique du Cigref](https://primetime.bluejeans.com/a2m/events/playback/979e1393-b36f-4d6b-9db1-2b14a1dd024b) - 26 novembre 2020
 - [#WeSpeakCloud : Le podcast - Episode 2 - Zoom sur l'actualité & le Green IT](https://blog.wescale.fr/2020/06/04/wespeakcloud-le-podcast-episode-2-zoom-sur-lactualite-le-green-it/) - 4 juin 2020

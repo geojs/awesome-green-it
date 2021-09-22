@@ -90,6 +90,7 @@ service - 2021
   - Académie Numérique Responsable
     - [MOOC Sensibilisation (30')](https://www.academie-nr.org/sensibilisation/#/)
     - [MOOC complet (14 modules)](https://www.academie-nr.org/#mooc-nr) 
+  - [MOOC Impacts environnementaux du numérique](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/index.html) - INRIA 
   
 ## Outils
 

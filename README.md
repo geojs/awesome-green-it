@@ -118,6 +118,10 @@ service - 2021
   - [PowerAPI](http://powerapi.org/) - a middleware toolkit for building software-defined power meters. Software-defined power meters are configurable software libraries that can estimate the power consumption of software in real-time
   - [Scaphandre](https://github.com/hubblo-org/scaphandre) - a metrology agent dedicated to electrical power consumption metrics. The goal of the project is to permit to any company or individual to measure the power consumption of its tech services and get this data in a convenient form, sending it through any monitoring or data analysis toolchain.
 
+## Manifeste
+
+- [Manifeste des professionnels de l'informatique pour limiter le réchauffement climatique](https://github.com/supertanuki/climanifeste)
+
 ## Awesome lists
 
 - https://github.com/supertanuki/numeriqueEcoResponsable

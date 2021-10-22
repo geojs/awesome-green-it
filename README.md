@@ -59,6 +59,8 @@ service - 2021
 
 ## Emissions 
 
+- [Webinaire de lancement du Référentiel général d’écoconception de service numérique](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/746707ced243a34296dc84e318d478c23c337948-1634653879677) - direction interministérielle du numérique (Dinum) - 19 octobre 2021
+- [Introduction au design de services numériques éco-responsables](https://www.twitch.tv/videos/1174772478) - Aurélie Baton/Anne Faubry - Codeurs en Seine - 12 octobre 2021
 - [Quel impact a le matériel sur notre planète et peut-on faire plus écologique ?](https://lydra.fr/rdo-15-hardware-et-pollution/) - lydra artisans DevOps - 25 mars 2021
 - [Coder (au) vert](https://ifttd.io/coder-au-vert/) - IFTTD - Raphaël Lemaire - 03 mars 2021
 - [Le numérique peut-il être écologique et responsable ?](https://www.franceculture.fr/emissions/de-cause-a-effets-le-magazine-de-lenvironnement/de-cause-a-effets-le-magazine-de-lenvironnement-du-mardi-05-janvier-2021) - France Culture - 05 janvier 2021

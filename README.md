@@ -47,6 +47,7 @@ The web, as a whole, is a big source of carbon emissions, because it is a big co
 
 ## Guide pratique
 
+- [GR491, le Guide de Référence de Conception Responsable de Services Numériques](https://gr491.isit-europe.org/) - Institut du numérique responsable - octobre 2021
 - [Guide de questionnement pour le développement de services numériques](https://librairie.ademe.fr/cadic/5702/guide-questionnement-de_developpement-services-numeriques-011501.pdf) - OuiShare, ADEME - 2021
 - [Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/)  [(pdf)](https://ecoresponsable.numerique.gouv.fr/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf) - INR Institut du numérique durable - 29 avril 2021 
 - [2021 Best Practice Guidelines for the EU Code of Conduct on Data Centre Energy Efficiency](https://e3p.jrc.ec.europa.eu/publications/2021-best-practice-guidelines-eu-code-conduct-data-centre-energy-efficiency) - Joint Research Centre (JRC), the European Commission’s science and knowledge

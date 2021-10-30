@@ -52,6 +52,7 @@ The web, as a whole, is a big source of carbon emissions, because it is a big co
 - [Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/)  [(pdf)](https://ecoresponsable.numerique.gouv.fr/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf) - INR Institut du numérique durable - 29 avril 2021 
 - [2021 Best Practice Guidelines for the EU Code of Conduct on Data Centre Energy Efficiency](https://e3p.jrc.ec.europa.eu/publications/2021-best-practice-guidelines-eu-code-conduct-data-centre-energy-efficiency) - Joint Research Centre (JRC), the European Commission’s science and knowledge
 service - 2021
+- [Guide des bonnes pratiques du Code de Conduite européen sur les Datacentres](https://ecoinfo.cnrs.fr/2020/05/19/guide-des-bonnes-pratiques-du-code-de-conduite-europeen-sur-les-datacentres/) - EcoInfo - 19 mai 2020
  
 ## Guide bonnes pratiques pour le "grand public"
 

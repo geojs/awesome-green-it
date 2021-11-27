@@ -80,7 +80,8 @@ service - 2021
 ## Livres
 
 - [Eco-conception web : les 115 bonnes pratiques](https://ecoconceptionweb.com/)
-- [Sobriété numérique](https://www.buchetchastel.fr/catalogue/sobriete-numerique/)
+- [Sobriété numérique](https://www.buchetchastel.fr/catalogue/sobriete-numerique/) -  Frédéric Bordage 
+- [L'enfer numérique](http://www.editionslesliensquiliberent.fr/livre-L_enfer_num%C3%A9rique-9791020909961-1-1-0-1.html) - Guillaume Pitron
 
 ## Magazines
 

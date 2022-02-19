@@ -38,6 +38,7 @@ Une liste de liens sur le [numérique responsable](https://www.greenit.fr/defini
 
 ## Référentiels / Charte / Principes
 
+- [Livre blanc Product Management Ecoresponsable - Daveo](https://www.daveo.fr/wp-content/uploads/2022/02/Livre-blanc-product-management-eco-responsable.pdf) - Daveo - février 2022
 - [Référentiel Green-IT : les 65 bonnes pratiques clés](https://institutnr.org/wp-content/uploads/2020/06/2020-v3-65-bonnes-pratiques-greenit.pdf) - Institut du numérique responsable - version 3 - mai 2020
 - [Charte Numérique Responsable](https://charte.institutnr.org/) - Institut du numérique responsable - 2020
 - [W3C TAG Ethical Web Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/#sustainable) 

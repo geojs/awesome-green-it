@@ -61,8 +61,10 @@ service - 2021
 - [La face cachée du numérique : réduire les impacts du numérique sur l’environnement](https://www.ademe.fr/face-cachee-numerique) - ADEME - janvier 2021 
 - [Eco-responsable au bureau : Actions efficaces et bonnes résolutions](https://www.ademe.fr/eco-responsable-bureau) - ADEME - janvier 2021
 
-## Emissions 
+## Emissions
 
+- [Comprendre les enjeux de consommation de ressource et d’énergie](https://www.youtube.com/watch?v=gxWwxqIrCa8) - Devoxx 2022 - Quentin Adam et Pierre Beyssac - 21 abril 2022
+- [Slow.tech : il est urgent de hacker le système !](https://www.youtube.com/watch?v=1uQPVOK45ow) - Devoxx 2022 - Frédéric Bordage - 21 abril 2022
 - [Webinaire de lancement du Référentiel général d’écoconception de service numérique](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/746707ced243a34296dc84e318d478c23c337948-1634653879677) - direction interministérielle du numérique (DINUM) - 19 octobre 2021
 - [Introduction au design de services numériques éco-responsables](https://www.twitch.tv/videos/1174772478) - Aurélie Baton/Anne Faubry - Codeurs en Seine - 12 octobre 2021
 - [Quel impact a le matériel sur notre planète et peut-on faire plus écologique ?](https://lydra.fr/rdo-15-hardware-et-pollution/) - lydra artisans DevOps - 25 mars 2021

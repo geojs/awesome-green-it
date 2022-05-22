@@ -14,6 +14,7 @@ Une liste de liens sur le [numérique responsable](https://www.greenit.fr/defini
 
 ## Articles
 
+- [Retour sur la conférence de Quentin ADAM et Pierre Beyssac à DevoxxFR 2022](https://airloren.github.io/devoxxfr/retour-conf-adam-beyssac/) - Romain Lorenzini de Boavizta - 19 mai 2022
 - [Climat et numérique: pourquoi le mouvement DevOps a un rôle à jouer](https://bpetit.nce.re/fr/2021/08/climat-et-num%C3%A9rique-pourquoi-le-mouvement-devops-a-un-r%C3%B4le-%C3%A0-jouer/) - Benoit Petit - 9 août 2021
 - [Quels outils pour mesurer la consommation énergétique de vos applications ?](https://glalloue.medium.com/quels-outils-pour-mesurer-la-consommation-%C3%A9nerg%C3%A9tique-de-vos-applications-c4d3bf434d7f) - Geoffrey Lalloué - 12 avril 2021
 - [Sous le capot de la mesure Ecoindex !](https://blog.octo.com/sous-le-capot-de-la-mesure-ecoindex/) - OCTO Technology - 26 janvier 2021

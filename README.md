@@ -6,11 +6,13 @@ Une liste de liens sur le [numérique responsable](https://www.greenit.fr/defini
 
 - [GreenIT.fr](https://www.greenit.fr/)
 - [Collectif Conception Numérique Responsable](https://collectif.greenit.fr/)
+- [EcoInfo](https://ecoinfo.cnrs.fr/)
+- [IT’s on us](https://www.itsonus.fr/)
+- [Boavizta](https://boavizta.org/)
 - [Planet Tech’Care](https://www.planet-techcare.green/)
 - [INR Institut du numérique durable](https://institutnr.org/)
 - [Alliance Green IT](https://alliancegreenit.org/)
-- [EcoInfo](https://ecoinfo.cnrs.fr/)
-- [IT’s on us](https://www.itsonus.fr/)
+
 
 ## Articles
 
@@ -119,6 +121,7 @@ service - 2021
   - [EcoIndex](http://www.ecoindex.fr/) - audit site web
   - [Ecometer](http://ecometer.org/) - a tool for assessing websites' ecodesign maturity
   - [Collectif Conception Numérique Responsable](https://github.com/cnumr/SonarQube) -  linter js et plugin Sonarqube qui permettent d'intégrer les règles de GreenIT
+  - [Boaviztapi](https://github.com/Boavizta/boaviztapi) - Une API pour évaluer les impacts environnementaux des produits et services numériques à partir de leurs configuration et de leur utilisation.
   - [Carbonalyser](https://theshiftproject.org/carbonalyser-extension-navigateur/) - extension de navigateur qui révèle combien surfer sur le web coûte au climat
   - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - audit site web
   - [GreenIT-Analysis](https://github.com/cnumr/GreenIT-Analysis) - extension pour navigateur qui vous permet de quantifier les impacts environnementaux d'un parcours utilisateur complet
@@ -126,6 +129,7 @@ service - 2021
   - [CodeCarbon](https://github.com/mlco2/codecarbon) - a Python package for tracking the carbon emissions produced by various kinds of computer programs, from straightforward algorithms to deep neural networks
   
 - DevOps
+  - [Boagent](https://github.com/Boavizta/boagent) - Un agent modulaire pour évaluer les impacts environnementaux d'un serveur ou d'une application sur un serveur.
   - [Argos](https://github.com/marmelab/argos) - docker monitoring experiment, auditing Reporter for Greener Ops Strategies
   - [PowerAPI](http://powerapi.org/) - a middleware toolkit for building software-defined power meters. Software-defined power meters are configurable software libraries that can estimate the power consumption of software in real-time
   - [Scaphandre](https://github.com/hubblo-org/scaphandre) - a metrology agent dedicated to electrical power consumption metrics. The goal of the project is to permit to any company or individual to measure the power consumption of its tech services and get this data in a convenient form, sending it through any monitoring or data analysis toolchain.

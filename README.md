@@ -67,7 +67,8 @@ service - 2021
 
 ## Emissions
 
-- [Comprendre les enjeux de consommation de ressource et d’énergie](https://www.youtube.com/watch?v=gxWwxqIrCa8) - Devoxx 2022 - Quentin Adam et Pierre Beyssac - 21 abril 2022
+- [Les impacts environnementaux et sociétaux des données : un défi pour l'avenir](https://replay.jres.org/w/9SjDywueCear8XWuTV7auP) - 14ème édition des Journées Réseaux de l’Enseignement et de la Recherche (JRES) -  Didier Mallarino, Sylvie Le Bras, Cyrille Bonamy - 19 mai 2022
+- [Comprendre les enjeux de consommation de ressource et d’énergie](https://www.youtube.com/watch?v=gxWwxqIrCa8) - Devoxx 2022 - Quentin Adam et Pierre Beyssac - 21 avril 2022
 - [Slow.tech : il est urgent de hacker le système !](https://www.youtube.com/watch?v=1uQPVOK45ow) - Devoxx 2022 - Frédéric Bordage - 21 abril 2022
 - [Webinaire de lancement du Référentiel général d’écoconception de service numérique](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/746707ced243a34296dc84e318d478c23c337948-1634653879677) - direction interministérielle du numérique (DINUM) - 19 octobre 2021
 - [Introduction au design de services numériques éco-responsables](https://www.twitch.tv/videos/1174772478) - Aurélie Baton/Anne Faubry - Codeurs en Seine - 12 octobre 2021

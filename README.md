@@ -16,6 +16,7 @@ Une liste de liens sur le [numérique responsable](https://www.greenit.fr/defini
 
 ## Articles
 
+- [Empreinte carbone du cloud : Amazon, Microsoft et Google ont-ils la tête dans les nuages ?](https://www.carbone4.com/analyse-empreinte-carbone-du-cloud) - Carbone4 - 31 mai 2022
 - [Retour sur la conférence de Quentin ADAM et Pierre Beyssac à DevoxxFR 2022](https://airloren.github.io/devoxxfr/retour-conf-adam-beyssac/) - Romain Lorenzini de Boavizta - 19 mai 2022
 - [Eco-design software by measuring energy usage in Continous Integration](https://demeringo.gitlab.io/blog/sustainable_it/2022/03/08/CarbonCrush-tracking-energy-usage-of-software-branches.html) - Olivier de Méringo - 8 mars 2022
 - [Climat et numérique: pourquoi le mouvement DevOps a un rôle à jouer](https://bpetit.nce.re/fr/2021/08/climat-et-num%C3%A9rique-pourquoi-le-mouvement-devops-a-un-r%C3%B4le-%C3%A0-jouer/) - Benoit Petit - 9 août 2021

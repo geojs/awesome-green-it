@@ -88,6 +88,7 @@ service - 2021
 
 ## Livres
 
+- [Green IT - Les clés pour des projets informatiques plus responsables](https://www.editions-eni.fr/livre/green-it-les-cles-pour-des-projets-informatiques-plus-responsables-9782409036095) - Margerie GUILLIOT, Raphaël LEMAIRE, Sylvain REVEREAULT - 8 juin 2022
 - [Eco-conception web : les 115 bonnes pratiques - Doper son site et réduire son empreinte écologique](https://ecoconceptionweb.com/) - 4ème édition - 12 mai 2022 
 - [Sobriété éditoriale : 50 bonnes pratiques pour écoconcevoir vos contenus web](https://www.sobriete-editoriale.fr/ressources-sobriete-editoriale/livre-sobriete-editoriale/) - Férréole Lespinasse - avril 2022
 - [L'enfer numérique](http://www.editionslesliensquiliberent.fr/livre-L_enfer_num%C3%A9rique-9791020909961-1-1-0-1.html) - Guillaume Pitron - 15 septembre 2021

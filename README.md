@@ -43,6 +43,7 @@ Une liste de liens sur le [numérique responsable](https://www.greenit.fr/defini
 
 ## Référentiels / Charte / Principes
 
+- [Référentiel GreenData : référentiel à destination des acteurs publics pour maitriser l'impact environnemental de la donnée](https://opendatafrance.gitbook.io/greendata-pour-un-impact-maitrise-des-donnees/greendata/1.1-contexte) - OpenDataFrance - juillet 2022
 - [Livre blanc Product Management Ecoresponsable - Daveo](https://www.daveo.fr/wp-content/uploads/2022/02/Livre-blanc-product-management-eco-responsable.pdf) - Daveo - février 2022
 - [Le référentiel général d’écoconception de service numérique (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) - Direction interministérielle du numérique (DINUM), Ministère de la Transition Écologique, ADEME et l'Institut du Numérique Responsable - 19 octobre 2021
 - [Référentiel Green-IT : les 65 bonnes pratiques clés](https://institutnr.org/wp-content/uploads/2020/06/2020-v3-65-bonnes-pratiques-greenit.pdf) - Institut du numérique responsable - version 3 - mai 2020
@@ -124,6 +125,7 @@ service - 2021
   
 - Développeurs 
   - [EcoIndex](http://www.ecoindex.fr/) - audit site web
+  - [Kastor](https://kastor.green/) - audit d'écoconception pour les sites et les applications web dans le cadre du numérique responsable et du green IT (audit basé sur le GR491)
   - [Ecometer](http://ecometer.org/) - a tool for assessing websites' ecodesign maturity
   - [Collectif Conception Numérique Responsable](https://github.com/cnumr/SonarQube) -  linter js et plugin Sonarqube qui permettent d'intégrer les règles de GreenIT
   - [Boaviztapi](https://github.com/Boavizta/boaviztapi) - Une API pour évaluer les impacts environnementaux des produits et services numériques à partir de leurs configuration et de leur utilisation.

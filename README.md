@@ -115,6 +115,7 @@ service - 2021
     - [MOOC Sensibilisation (30')](https://www.academie-nr.org/sensibilisation/#/)
     - [MOOC complet (14 modules)](https://www.academie-nr.org/#mooc-nr) 
   - [MOOC Impacts environnementaux du numérique](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/index.html) - INRIA 
+  - [Green Software Practitioner](https://learn.greensoftware.foundation/) - Green Software Foundation
   
 ## Outils
 

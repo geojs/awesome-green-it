@@ -70,6 +70,7 @@ service - 2021
 
 ## Emissions / Talks
 
+- [Frankenstream - Ce monstre qui nous dévore](https://www.arte.tv/fr/videos/RC-023064/frankenstream/) - Arte - Production ALLSO - 2022
 - [L'eco-conception, c'est bien, mais si on parlait un peu du backend ?](https://www.youtube.com/watch?v=k39JWYVx_cI) - Sunny Tech 2022 - Jérémie Drouet et Youen Chene - 9 juillet 2022
 - [Les impacts environnementaux et sociétaux des données : un défi pour l'avenir](https://replay.jres.org/w/9SjDywueCear8XWuTV7auP) - 14ème édition des Journées Réseaux de l’Enseignement et de la Recherche (JRES) -  Didier Mallarino, Sylvie Le Bras, Cyrille Bonamy - 19 mai 2022
 - [Comprendre les enjeux de consommation de ressource et d’énergie](https://www.youtube.com/watch?v=gxWwxqIrCa8) - Devoxx 2022 - Quentin Adam et Pierre Beyssac - 21 avril 2022

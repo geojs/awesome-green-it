@@ -56,6 +56,8 @@ The web, as a whole, is a big source of carbon emissions, because it is a big co
 
 ## Guide pratique
 
+- [115 Web Ecodesign Best Practices](https://github.com/cnumr/best-practices) - Collectif Conception Numérique Responsable 
+- [Les bonnes pratiques d'écoconception pour WordPress](https://github.com/cnumr/best-practices-wordpress) -  Collectif Conception Numérique Responsable 
 - [GR491, le Guide de Référence de Conception Responsable de Services Numériques](https://gr491.isit-europe.org/) - Institut du numérique responsable - octobre 2021
 - [Guide de questionnement pour le développement de services numériques](https://librairie.ademe.fr/cadic/5702/guide-questionnement-de_developpement-services-numeriques-011501.pdf) - OuiShare, ADEME - 2021
 - [Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/)  [(pdf)](https://ecoresponsable.numerique.gouv.fr/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf) - INR Institut du numérique durable - 29 avril 2021 

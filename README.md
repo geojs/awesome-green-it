@@ -16,6 +16,7 @@ Une liste de liens sur le [numérique responsable](https://www.greenit.fr/defini
 
 ## Articles
 
+- [L’API Green Score, une innovation pour les APIs Numériquement responsables](https://www.collectif-api-thinking.com/?article=6) - Collectif API Thinking - 2 février 2023
 - [Empreinte carbone du cloud : Amazon, Microsoft et Google ont-ils la tête dans les nuages ?](https://www.carbone4.com/analyse-empreinte-carbone-du-cloud) - Carbone4 - 31 mai 2022
 - [Retour sur la conférence de Quentin ADAM et Pierre Beyssac à DevoxxFR 2022](https://airloren.github.io/devoxxfr/retour-conf-adam-beyssac/) - Romain Lorenzini de Boavizta - 19 mai 2022
 - [Eco-design software by measuring energy usage in Continous Integration](https://demeringo.gitlab.io/blog/sustainable_it/2022/03/08/CarbonCrush-tracking-energy-usage-of-software-branches.html) - Olivier de Méringo - 8 mars 2022
@@ -58,6 +59,7 @@ The web, as a whole, is a big source of carbon emissions, because it is a big co
 
 - [115 Web Ecodesign Best Practices](https://github.com/cnumr/best-practices) - Collectif Conception Numérique Responsable 
 - [Les bonnes pratiques d'écoconception pour WordPress](https://github.com/cnumr/best-practices-wordpress) -  Collectif Conception Numérique Responsable 
+- [Sustainable API Green Score - API Numériquement Responsable](https://www.collectif-api-thinking.com/assets/deliverables/worksites/50_CAT_API_Sustainable_IT.pdf) - Collectif API Thinking
 - [GR491, le Guide de Référence de Conception Responsable de Services Numériques](https://gr491.isit-europe.org/) - Institut du numérique responsable - octobre 2021
 - [Guide de questionnement pour le développement de services numériques](https://librairie.ademe.fr/cadic/5702/guide-questionnement-de_developpement-services-numeriques-011501.pdf) - OuiShare, ADEME - 2021
 - [Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/)  [(pdf)](https://ecoresponsable.numerique.gouv.fr/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf) - INR Institut du numérique durable - 29 avril 2021 

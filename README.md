@@ -136,7 +136,8 @@ service - 2021
   - [Kastor](https://kastor.green/) - audit d'écoconception pour les sites et les applications web dans le cadre du numérique responsable et du green IT (audit basé sur le GR491)
   - [GreenFrame](https://github.com/marmelab/greenframe-cli) - Estimate the carbon footprint of a user scenario on a web application 
   - [Ecometer](http://ecometer.org/) - a tool for assessing websites' ecodesign maturity
-  - [ecoCode](https://github.com/cnumr/ecoCode) - Reduce the environmental footprint of your software applications with this cutting-edge sonarQube plugin
+  - [ecoCode](https://github.com/green-code-initiative/ecoCode) - Reduce the environmental footprint of your software applications with this cutting-edge sonarQube plugin
+  - [ecoCode Mobile](https://github.com/green-code-initiative/ecoCode-mobile) - plugin SonarQube dédié à l'analyse de qualité verte du code des projets Android 
   - [EcoSonar](https://github.com/Accenture/EcoSonar) - EcoSonar, the ecodesign audit tool 
   - [Boaviztapi](https://github.com/Boavizta/boaviztapi) - Une API pour évaluer les impacts environnementaux des produits et services numériques à partir de leurs configuration et de leur utilisation.
   - [Carbonalyser](https://theshiftproject.org/carbonalyser-extension-navigateur/) - extension de navigateur qui révèle combien surfer sur le web coûte au climat
@@ -163,3 +164,4 @@ service - 2021
 - https://github.com/supertanuki/numeriqueEcoResponsable
 - https://github.com/alvessteve/awesome-green-it/
 - https://gitlab.inria.fr/qguillot/greenit-resources
+- https://olegoaer.perso.univ-pau.fr/green-code.html

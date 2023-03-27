@@ -138,6 +138,7 @@ service - 2021
   - [Ecometer](http://ecometer.org/) - a tool for assessing websites' ecodesign maturity
   - [ecoCode](https://github.com/green-code-initiative/ecoCode) - Reduce the environmental footprint of your software applications with this cutting-edge sonarQube plugin
   - [ecoCode Mobile](https://github.com/green-code-initiative/ecoCode-mobile) - plugin SonarQube dédié à l'analyse de qualité verte du code des projets Android 
+  - [ecoCode linter](https://github.com/green-code-initiative/ecoCode-linter) - Reduce the environmental footprint of your software programs with SonarQube linters 
   - [EcoSonar](https://github.com/Accenture/EcoSonar) - EcoSonar, the ecodesign audit tool 
   - [Boaviztapi](https://github.com/Boavizta/boaviztapi) - Une API pour évaluer les impacts environnementaux des produits et services numériques à partir de leurs configuration et de leur utilisation.
   - [Carbonalyser](https://theshiftproject.org/carbonalyser-extension-navigateur/) - extension de navigateur qui révèle combien surfer sur le web coûte au climat

@@ -44,6 +44,7 @@ Une liste de liens sur le [numérique responsable](https://www.greenit.fr/defini
 
 ## Référentiels / Charte / Principes
 
+- [Livre blanc : Datacenter, maîtriser et optimiser son impact environnemental](https://alliancegreenit.org/media/ressource-livre-blanc/livre-blanc-version-finale-1-6.pdf) - Alliance Green IT - mars 2023
 - [Référentiel GreenData : référentiel à destination des acteurs publics pour maitriser l'impact environnemental de la donnée](https://opendatafrance.gitbook.io/greendata-pour-un-impact-maitrise-des-donnees/greendata/1.1-contexte) - OpenDataFrance - juillet 2022
 - [Livre blanc Product Management Ecoresponsable - Daveo](https://www.daveo.fr/wp-content/uploads/2022/02/Livre-blanc-product-management-eco-responsable.pdf) - Daveo - février 2022
 - [Le référentiel général d’écoconception de service numérique (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) - Direction interministérielle du numérique (DINUM), Ministère de la Transition Écologique, ADEME et l'Institut du Numérique Responsable - 19 octobre 2021
@@ -52,8 +53,8 @@ Une liste de liens sur le [numérique responsable](https://www.greenit.fr/defini
 - [W3C TAG Ethical Web Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/#sustainable) 
 "The web must be an environmentally sustainable platform
 The web, as a whole, is a big source of carbon emissions, because it is a big consumer of power. New web technologies should not make this situation worse. We will consider power consumption and the resulting emissions when we introduce new technologies to the web."
-- [Livre blanc Numérique et Environnement](https://www.iddri.org/sites/default/files/PDF/Publications/Catalogue%20Iddri/Rapport/livre%20blanc%20num%C3%A9rique%20%C3%A9cologie.pdf) - Iddri, FING, WWF France, GreenIT.fr (2018). 
-- [Livre blanc L'écoconception des services numériques](https://alliancegreenit.org/media/position-paper-ecoconception-vf-v5-2.pdf) - Alliance Green IT - février 2017
+- [Livre blanc : Numérique et Environnement](https://www.iddri.org/sites/default/files/PDF/Publications/Catalogue%20Iddri/Rapport/livre%20blanc%20num%C3%A9rique%20%C3%A9cologie.pdf) - Iddri, FING, WWF France, GreenIT.fr (2018). 
+- [Livre blanc : L'écoconception des services numériques](https://alliancegreenit.org/media/position-paper-ecoconception-vf-v5-2.pdf) - Alliance Green IT - février 2017
 
 ## Guide pratique
 

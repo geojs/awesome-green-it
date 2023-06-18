@@ -44,6 +44,7 @@ Une liste de liens sur le [numérique responsable](https://www.greenit.fr/defini
 
 ## Référentiels / Charte / Principes
 
+- [Référentiel de conformité Sobriété éditoriale](https://www.sobriete-editoriale.fr/referentiel-conformite-sobriete-editoriale/) - Cyclop Éditorial - juin 2023
 - [Livre blanc : Datacenter, maîtriser et optimiser son impact environnemental](https://alliancegreenit.org/media/ressource-livre-blanc/livre-blanc-version-finale-1-6.pdf) - Alliance Green IT - mars 2023
 - [Référentiel GreenData : référentiel à destination des acteurs publics pour maitriser l'impact environnemental de la donnée](https://opendatafrance.gitbook.io/greendata-pour-un-impact-maitrise-des-donnees/greendata/1.1-contexte) - OpenDataFrance - juillet 2022
 - [Livre blanc Product Management Ecoresponsable - Daveo](https://www.daveo.fr/wp-content/uploads/2022/02/Livre-blanc-product-management-eco-responsable.pdf) - Daveo - février 2022

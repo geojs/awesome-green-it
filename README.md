@@ -59,12 +59,14 @@ The web, as a whole, is a big source of carbon emissions, because it is a big co
 
 ## Guide pratique
 
+- [Guide de bonnes pratiques numérique responsable pour les organisations](https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/) - MiNumEco - 19 juin 2023
+- [Guide méthodologique - Stratégie Numérique Responsable de la collectivité en 10 étapes](https://www.interconnectes.com/guide-outilsnr/) -  les interconnectés - juin 2023
 - [115 Web Ecodesign Best Practices](https://github.com/cnumr/best-practices) - Collectif Conception Numérique Responsable 
 - [Les bonnes pratiques d'écoconception pour WordPress](https://github.com/cnumr/best-practices-wordpress) -  Collectif Conception Numérique Responsable 
 - [Sustainable API Green Score - API Numériquement Responsable](https://www.collectif-api-thinking.com/assets/deliverables/worksites/50_CAT_API_Sustainable_IT.pdf) - Collectif API Thinking
 - [GR491, le Guide de Référence de Conception Responsable de Services Numériques](https://gr491.isit-europe.org/) - Institut du numérique responsable - octobre 2021
 - [Guide de questionnement pour le développement de services numériques](https://librairie.ademe.fr/cadic/5702/guide-questionnement-de_developpement-services-numeriques-011501.pdf) - OuiShare, ADEME - 2021
-- [Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/)  [(pdf)](https://ecoresponsable.numerique.gouv.fr/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf) - INR Institut du numérique durable - 29 avril 2021 
+- [Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/)  [(pdf)](https://ecoresponsable.numerique.gouv.fr/docs/2021/guide-achats-numeriques-responsables-version-beta-avril-2021.pdf) - MiNumEco - 29 avril 2021 
 - [2021 Best Practice Guidelines for the EU Code of Conduct on Data Centre Energy Efficiency](https://e3p.jrc.ec.europa.eu/publications/2021-best-practice-guidelines-eu-code-conduct-data-centre-energy-efficiency) - Joint Research Centre (JRC), the European Commission’s science and knowledge
 service - 2021
 - [Guide des bonnes pratiques du Code de Conduite européen sur les Datacentres](https://ecoinfo.cnrs.fr/2020/05/19/guide-des-bonnes-pratiques-du-code-de-conduite-europeen-sur-les-datacentres/) - EcoInfo - 19 mai 2020
@@ -127,6 +129,9 @@ service - 2021
   
 ## Outils
 
+- collectivités 
+  - [Boite à outils – Loi REEN](https://institutnr.org/boite-a-outils-reen) - outil d’aide à l’auto-évaluation de l’impact environnemental du numérique pour les collectivités
+
 - Utilisateurs 
   - [Impactomètre](https://impactometre.fr/) - comparaison d'impact environnemental des réunions.
   - [Ecodiag](https://ecoinfo.cnrs.fr/ecodiag-calcul/) - cet outil vous permet de facilement renseigner la consommation réelle de vos équipement 
@@ -151,8 +156,9 @@ service - 2021
   - [CodeCarbon](https://github.com/mlco2/codecarbon) - a Python package for tracking the carbon emissions produced by various kinds of computer programs, from straightforward algorithms to deep neural networks
   
 - DevOps
-  - [Boagent](https://github.com/Boavizta/boagent) - Un agent modulaire pour évaluer les impacts environnementaux d'un serveur ou d'une application sur un serveur.
   - [Argos](https://github.com/marmelab/argos) - docker monitoring experiment, auditing Reporter for Greener Ops Strategies
+  - [Boagent](https://github.com/Boavizta/boagent) - Un agent modulaire pour évaluer les impacts environnementaux d'un serveur ou d'une application sur un serveur.
+  - [NumEcoEval](https://gitlab-forge.din.developpement-durable.gouv.fr/pub/numeco/m4g/numecoeval) - NumEcoEval est une solution permettant de calculer l’empreinte environnementale d'un système d'information.
   - [PowerAPI](http://powerapi.org/) - a middleware toolkit for building software-defined power meters. Software-defined power meters are configurable software libraries that can estimate the power consumption of software in real-time
   - [Scaphandre](https://github.com/hubblo-org/scaphandre) - a metrology agent dedicated to electrical power consumption metrics. The goal of the project is to permit to any company or individual to measure the power consumption of its tech services and get this data in a convenient form, sending it through any monitoring or data analysis toolchain.
 

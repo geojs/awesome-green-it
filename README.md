@@ -129,7 +129,7 @@ service - 2021
   
 ## Outils
 
-- collectivités 
+- Collectivités 
   - [Boite à outils – Loi REEN](https://institutnr.org/boite-a-outils-reen) - outil d’aide à l’auto-évaluation de l’impact environnemental du numérique pour les collectivités
 
 - Utilisateurs 

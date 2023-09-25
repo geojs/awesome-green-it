@@ -26,6 +26,7 @@ Une liste de liens sur le [numérique responsable](https://www.greenit.fr/defini
 - [Introduction à l'écoconception web](https://docs.google.com/presentation/d/e/2PACX-1vSptDclQFtX6S8yy1T3YO3G5-npmejXPhP7qL-72K1K6PgtFqlygfFQledXAqLttOxg6qVU86R4s7A5/pub#slide=id.p) - Vincent Vatelot - 18 novembre 2020
 - [Le langage C ne sera-t-il jamais battu en termes de rapidité d'exécution et de faible consommation d'énergie ?](https://programmation.developpez.com/actu/296868/Le-langage-C-ne-sera-t-il-jamais-battu-en-termes-de-rapidite-d-execution-et-de-faible-consommation-d-energie-Voici-les-resultats-d-une-etude-sur-27-langages-de-programmation-les-plus-populaires/) - Developpez.com - 12 mars 2020
 - [L'écoconception et le "software craftmanship" ?](https://www.barreverte.fr/retour-sur-lean4greenit-2/) - Bruno Thomas - 17 octobre 2018
+- [The 1.7 Kilogram Microchip: Energy and Material Use in the Production of Semiconductor Devices](http://dx.doi.org/10.1021/es049890z) Eric D. Williams, Robert U. Ayres, and Miriam Heller - Environmental Science and Technology - janvier 2003 
 
 ## Rapports
 
@@ -59,8 +60,10 @@ The web, as a whole, is a big source of carbon emissions, because it is a big co
 
 ## Guide pratique
 
+- [Protocole de test associé à la déclaration environnementale](https://declaration.greenit.fr/) - Collectif Green IT
 - [Guide de bonnes pratiques numérique responsable pour les organisations](https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/) - MiNumEco - 19 juin 2023
 - [Guide méthodologique - Stratégie Numérique Responsable de la collectivité en 10 étapes](https://www.interconnectes.com/guide-outilsnr/) -  les interconnectés - juin 2023
+- [Je code : les bonnes pratiques en éco-conception de service numérique à destination des développeurs de logiciels](https://inria.hal.science/hal-03009741) - DevLOG - 14 mars 2023
 - [115 Web Ecodesign Best Practices](https://github.com/cnumr/best-practices) - Collectif Conception Numérique Responsable 
 - [Les bonnes pratiques d'écoconception pour WordPress](https://github.com/cnumr/best-practices-wordpress) -  Collectif Conception Numérique Responsable 
 - [Sustainable API Green Score - API Numériquement Responsable](https://www.collectif-api-thinking.com/assets/deliverables/worksites/50_CAT_API_Sustainable_IT.pdf) - Collectif API Thinking
@@ -78,6 +81,7 @@ service - 2021
 
 ## Emissions / Talks
 
+- [Afficher les impacts environnementaux de mon site web sans greenwashing](https://www.youtube.com/live/SB8eLZo_ip4) - Collectif GreenIT - 18 avril 2023
 - [Frankenstream - Ce monstre qui nous dévore](https://www.arte.tv/fr/videos/RC-023064/frankenstream/) - Arte - Production ALLSO - 2022
 - [L'eco-conception, c'est bien, mais si on parlait un peu du backend ?](https://www.youtube.com/watch?v=k39JWYVx_cI) - Sunny Tech 2022 - Jérémie Drouet et Youen Chene - 9 juillet 2022
 - [Les impacts environnementaux et sociétaux des données : un défi pour l'avenir](https://replay.jres.org/w/9SjDywueCear8XWuTV7auP) - 14ème édition des Journées Réseaux de l’Enseignement et de la Recherche (JRES) -  Didier Mallarino, Sylvie Le Bras, Cyrille Bonamy - 19 mai 2022
@@ -138,7 +142,7 @@ service - 2021
   - [Calculatrice impact environnemental pro](https://institutnr.org/calculatrice/impact-environnemental-numerique-inr.html) - Decathlon a créé, en partenariat avec l'INR, une calculatrice qui permet de calculer simplement son impact numérique professionnel
   - [Paper Calculator](https://c.environmentalpaper.org/) - calculez votre impact environnemental de l'impression papier
   
-- Développeurs 
+- Développeurs
   - [EcoIndex](http://www.ecoindex.fr/) - audit site web
   - [Eco Index Audit](https://github.com/EmmanuelDemey/eco-index-audit) - Librairie permattant d'exécuter EcoIndex dans un pipeline d'Intégration Continue et dans des tests Cypress
   - [Kastor](https://kastor.green/) - audit d'écoconception pour les sites et les applications web dans le cadre du numérique responsable et du green IT (audit basé sur le GR491)
@@ -158,12 +162,14 @@ service - 2021
 - DevOps
   - [Argos](https://github.com/marmelab/argos) - docker monitoring experiment, auditing Reporter for Greener Ops Strategies
   - [Boagent](https://github.com/Boavizta/boagent) - Un agent modulaire pour évaluer les impacts environnementaux d'un serveur ou d'une application sur un serveur.
-  - [NumEcoEval](https://gitlab-forge.din.developpement-durable.gouv.fr/pub/numeco/m4g/numecoeval) - NumEcoEval est une solution permettant de calculer l’empreinte environnementale d'un système d'information.
   - [PowerAPI](http://powerapi.org/) - a middleware toolkit for building software-defined power meters. Software-defined power meters are configurable software libraries that can estimate the power consumption of software in real-time
   - [Scaphandre](https://github.com/hubblo-org/scaphandre) - a metrology agent dedicated to electrical power consumption metrics. The goal of the project is to permit to any company or individual to measure the power consumption of its tech services and get this data in a convenient form, sending it through any monitoring or data analysis toolchain.
 
 - Ops
   - [The Green Web Foundation](https://www.thegreenwebfoundation.org/directory/#FR) - liste des hébergeurs éco-responsable 
+
+- Auditeurs
+  - [NumEcoEval](https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/fiches/numecoeval/) - NumEcoEval est une solution permettant de calculer l’empreinte environnementale d’un système d’information.
 
 ## Manifeste
 

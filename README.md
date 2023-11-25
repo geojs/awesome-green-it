@@ -16,6 +16,7 @@ Une liste de liens sur le [numérique responsable](https://www.greenit.fr/defini
 
 ## Articles
 
+- [https://blog.atolcd.com/logiciel-respectueux-du-climat-bien-choisir-ses-batailles/](https://blog.atolcd.com/logiciel-respectueux-du-climat-bien-choisir-ses-batailles/) - Thomas Broyer - 16 octobre 2023
 - [L’API Green Score, une innovation pour les APIs Numériquement responsables](https://www.collectif-api-thinking.com/?article=6) - Collectif API Thinking - 2 février 2023
 - [Empreinte carbone du cloud : Amazon, Microsoft et Google ont-ils la tête dans les nuages ?](https://www.carbone4.com/analyse-empreinte-carbone-du-cloud) - Carbone4 - 31 mai 2022
 - [Retour sur la conférence de Quentin ADAM et Pierre Beyssac à DevoxxFR 2022](https://airloren.github.io/devoxxfr/retour-conf-adam-beyssac/) - Romain Lorenzini de Boavizta - 19 mai 2022

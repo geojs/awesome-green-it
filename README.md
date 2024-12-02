@@ -12,7 +12,8 @@ Une liste de liens sur le [numérique responsable](https://www.greenit.fr/defini
 - [Planet Tech’Care](https://www.planet-techcare.green/)
 - [INR Institut du numérique durable](https://institutnr.org/)
 - [Alliance Green IT](https://alliancegreenit.org/)
-
+- [Designers Éthiques](https://beta.designersethiques.org/)
+- [Limites Numériques](https://limitesnumeriques.fr/)
 
 ## Articles
 

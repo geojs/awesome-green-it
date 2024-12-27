@@ -165,6 +165,7 @@ service - 2021
 - DevOps
   - [Argos](https://github.com/marmelab/argos) - docker monitoring experiment, auditing Reporter for Greener Ops Strategies
   - [Boagent](https://github.com/Boavizta/boagent) - Un agent modulaire pour évaluer les impacts environnementaux d'un serveur ou d'une application sur un serveur.
+  - [DailyClean](https://github.com/AxaFrance/dailyclean) -  Save The planet by auto turn off your pods on kubernetes Topics
   - [PowerAPI](http://powerapi.org/) - a middleware toolkit for building software-defined power meters. Software-defined power meters are configurable software libraries that can estimate the power consumption of software in real-time
   - [Scaphandre](https://github.com/hubblo-org/scaphandre) - a metrology agent dedicated to electrical power consumption metrics. The goal of the project is to permit to any company or individual to measure the power consumption of its tech services and get this data in a convenient form, sending it through any monitoring or data analysis toolchain.
 

@@ -173,6 +173,7 @@ service - 2021
   - [The Green Web Foundation](https://www.thegreenwebfoundation.org/directory/#FR) - liste des hébergeurs éco-responsable 
 
 - Auditeurs
+  - [AI Energy Score](https://huggingface.co/spaces/AIEnergyScore/Leaderboard) - comparable energy efficiency ratings for AI models
   - [NumEcoEval](https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/fiches/numecoeval/) - NumEcoEval est une solution permettant de calculer l’empreinte environnementale d’un système d’information.
 
 ## Manifeste

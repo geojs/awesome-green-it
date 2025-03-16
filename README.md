@@ -125,8 +125,9 @@ service - 2021
 - Payantes
   - [Green IT : état de l’art](https://www.greenit.fr/agenda/formation-green-it-etat-de-lart-greenit-fr/) - Green IT
   - [(éco)Conception responsable de service numérique](https://www.greenit.fr/agenda/formation-eco-conception-web-logiciels/) - Green IT
-  - [Formation Numérique responsable](https://formations.univ-larochelle.fr/formation-numerique-responsable) - Université de la Rochelle 
-- Gratuites 
+  - [Formation Numérique responsable](https://formations.univ-larochelle.fr/formation-numerique-responsable) - La Rochelle Université
+- Gratuites
+  - [Parcours MOOC Numérique Écoresponsable](https://ecoresponsable.numerique.gouv.fr/formations/parcours-mooc/) - DINUM
   - Académie Numérique Responsable
     - [MOOC Sensibilisation (30')](https://www.academie-nr.org/sensibilisation/#/)
     - [MOOC complet (14 modules)](https://www.academie-nr.org/#mooc-nr) 

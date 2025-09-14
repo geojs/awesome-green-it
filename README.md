@@ -162,6 +162,7 @@ service - 2021
   - [GreenIT-Analysis](https://github.com/cnumr/GreenIT-Analysis) - extension pour navigateur qui vous permet de quantifier les impacts environnementaux d'un parcours utilisateur complet
   - [Estimator](https://estimator.dev/) - calcul le nombre Mo économisé d'un site en utilisant du Javascript "moderne"
   - [CodeCarbon](https://github.com/mlco2/codecarbon) - a Python package for tracking the carbon emissions produced by various kinds of computer programs, from straightforward algorithms to deep neural networks
+  - [EcoLogits](https://github.com/genai-impact/ecologits) - a Python package for tracking the energy consumption and environmental footprint of using generative AI models through APIs
   
 - DevOps / GreenOps
   - [Argos](https://github.com/marmelab/argos) - docker monitoring experiment, auditing Reporter for Greener Ops Strategies

@@ -12,7 +12,7 @@ Une liste de liens sur le [numérique responsable](https://www.greenit.fr/defini
 - [Planet Tech’Care](https://www.planet-techcare.green/)
 - [INR Institut du numérique durable](https://institutnr.org/)
 - [Alliance Green IT](https://alliancegreenit.org/)
-- [Designers Éthiques](https://beta.designersethiques.org/)
+- [Designers Éthiques](https://designersethiques.org/)
 - [Limites Numériques](https://limitesnumeriques.fr/)
 
 ## Articles
@@ -147,23 +147,24 @@ service - 2021
   
 - Développeurs
   - [EcoIndex](http://www.ecoindex.fr/) - audit site web
-  - [Eco Index Audit](https://github.com/EmmanuelDemey/eco-index-audit) - Librairie permattant d'exécuter EcoIndex dans un pipeline d'Intégration Continue et dans des tests Cypress
+  - [Eco Index Audit](https://github.com/EmmanuelDemey/eco-index-audit) - librairie permattant d'exécuter EcoIndex dans un pipeline d'Intégration Continue et dans des tests Cypress
   - [PAGIEL](https://github.com/Zenika/pagiel) - un outil de monitoring d'indicateurs environnementaux d'un projet web, fait pour être intégré dans des pipelines de déploiement continu
   - [Kastor](https://kastor.green/) - audit d'écoconception pour les sites et les applications web dans le cadre du numérique responsable et du green IT (audit basé sur le GR491)
-  - [GreenFrame](https://github.com/marmelab/greenframe-cli) - Estimate the carbon footprint of a user scenario on a web application 
+  - [GreenFrame](https://github.com/marmelab/greenframe-cli) - estimate the carbon footprint of a user scenario on a web application 
   - [Ecometer](http://ecometer.org/) - a tool for assessing websites' ecodesign maturity
-  - [ecoCode](https://github.com/green-code-initiative/ecoCode) - Reduce the environmental footprint of your software applications with this cutting-edge sonarQube plugin
+  - [ecoCode](https://github.com/green-code-initiative/ecoCode) - reduce the environmental footprint of your software applications with this cutting-edge sonarQube plugin
   - [ecoCode Mobile](https://github.com/green-code-initiative/ecoCode-mobile) - plugin SonarQube dédié à l'analyse de qualité verte du code des projets Android 
   - [ecoCode linter](https://github.com/green-code-initiative/ecoCode-linter) - Reduce the environmental footprint of your software programs with SonarQube linters 
   - [EcoSonar](https://github.com/Accenture/EcoSonar) - EcoSonar, the ecodesign audit tool 
-  - [Boaviztapi](https://github.com/Boavizta/boaviztapi) - Une API pour évaluer les impacts environnementaux des produits et services numériques à partir de leurs configuration et de leur utilisation.
+  - [Boaviztapi](https://github.com/Boavizta/boaviztapi) - une API pour évaluer les impacts environnementaux des produits et services numériques à partir de leurs configuration et de leur utilisation.
   - [Carbonalyser](https://theshiftproject.org/carbonalyser-extension-navigateur/) - extension de navigateur qui révèle combien surfer sur le web coûte au climat
   - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - audit site web
   - [GreenIT-Analysis](https://github.com/cnumr/GreenIT-Analysis) - extension pour navigateur qui vous permet de quantifier les impacts environnementaux d'un parcours utilisateur complet
   - [Estimator](https://estimator.dev/) - calcul le nombre Mo économisé d'un site en utilisant du Javascript "moderne"
   - [CodeCarbon](https://github.com/mlco2/codecarbon) - a Python package for tracking the carbon emissions produced by various kinds of computer programs, from straightforward algorithms to deep neural networks
-  - [EcoLogits](https://github.com/genai-impact/ecologits) - a Python package for tracking the energy consumption and environmental footprint of using generative AI models through APIs
-  
+  - [EcoLogits](https://github.com/genai-impact/ecologits) - a Python package for tracking the energy consumption and environmental footprint of using generative AI models through APIs 
+  - [The Computer Language Benchmark Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/) - measured : "Which programming language is fastest?"
+    
 - DevOps / GreenOps
   - [Argos](https://github.com/marmelab/argos) - docker monitoring experiment, auditing Reporter for Greener Ops Strategies
   - [Boagent](https://github.com/Boavizta/boagent) - Un agent modulaire pour évaluer les impacts environnementaux d'un serveur ou d'une application sur un serveur.

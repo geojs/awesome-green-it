@@ -62,6 +62,7 @@ The web, as a whole, is a big source of carbon emissions, because it is a big co
 
 ## Guide pratique
 
+- [Méthodologie EROOM : inverser la logique de la loi de Moore en doublant l’efficacité des logiciels, plutôt que la puissance du matériel](https://www.boavizta.org/eroom) - Association Boavizta
 - [Protocole de test associé à la déclaration environnementale](https://declaration.greenit.fr/) - Collectif Green IT
 - [Guide de bonnes pratiques numérique responsable pour les organisations](https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/) - MiNumEco - 19 juin 2023
 - [Guide méthodologique - Stratégie Numérique Responsable de la collectivité en 10 étapes](https://www.interconnectes.com/guide-outilsnr/) -  les interconnectés - juin 2023

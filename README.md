@@ -147,6 +147,7 @@ service - 2021
   - [Paper Calculator](https://c.environmentalpaper.org/) - calculez votre impact environnemental de l'impression papier
   
 - Développeurs
+  - [claude-carbon](https://github.com/gwittebolle/claude-carbon) - track the carbon footprint of your Claude Code sessions 
   - [green-code](https://github.com/JeremieSamson/green-code) - track your AI carbon footprint and plant trees to compensate
   - [EcoIndex](http://www.ecoindex.fr/) - audit site web
   - [Eco Index Audit](https://github.com/EmmanuelDemey/eco-index-audit) - librairie permattant d'exécuter EcoIndex dans un pipeline d'Intégration Continue et dans des tests Cypress

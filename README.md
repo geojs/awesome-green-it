@@ -147,6 +147,7 @@ service - 2021
   - [Paper Calculator](https://c.environmentalpaper.org/) - calculez votre impact environnemental de l'impression papier
   
 - Développeurs
+  - [Green Metrics Tool](https://github.com/green-coding-solutions/green-metrics-tool) - Measure energy consumption and carbon emissions of software - Timelines, git-integration, Comparions, Dashboards and Optimizations included  
   - [claude-carbon](https://github.com/gwittebolle/claude-carbon) - track the carbon footprint of your Claude Code sessions 
   - [green-code](https://github.com/JeremieSamson/green-code) - track your AI carbon footprint and plant trees to compensate
   - [EcoIndex](http://www.ecoindex.fr/) - audit site web

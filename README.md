@@ -145,7 +145,8 @@ service - 2021
   - [Ecodiag](https://ecoinfo.cnrs.fr/ecodiag-calcul/) - cet outil vous permet de facilement renseigner la consommation réelle de vos équipement 
   - [Calculatrice impact environnemental pro](https://institutnr.org/calculatrice/impact-environnemental-numerique-inr.html) - Decathlon a créé, en partenariat avec l'INR, une calculatrice qui permet de calculer simplement son impact numérique professionnel
   - [Paper Calculator](https://c.environmentalpaper.org/) - calculez votre impact environnemental de l'impression papier
-  
+  - - [Huit questions d'arbitrage (Perennova)](https://perennova-eco.github.io) - auto-diagnostic en 8 questions pour arbitrer l'éco-conception d'un service numérique : score sur 100, palier de maturité et deux leviers prioritaires ; sans inscription ni traceur, adossé au RGESN (code MIT)
+      
 - Développeurs
   - [Green Metrics Tool](https://github.com/green-coding-solutions/green-metrics-tool) - Measure energy consumption and carbon emissions of software - Timelines, git-integration, Comparions, Dashboards and Optimizations included  
   - [claude-carbon](https://github.com/gwittebolle/claude-carbon) - track the carbon footprint of your Claude Code sessions 

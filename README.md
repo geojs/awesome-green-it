@@ -17,6 +17,7 @@ Une liste de liens sur le [numérique responsable](https://www.greenit.fr/defini
 
 ## Articles
 
+- [Quels gains chiffrés attendre de l’écoconception ?](https://blog.zenika.com/2024/12/03/quels-gains-chiffres-attendre-de-lecoconception/) - Raphaël Lemaire - 3 décembre 2024
 - [Logiciel respectueux du climat : bien choisir ses batailles](https://blog.atolcd.com/logiciel-respectueux-du-climat-bien-choisir-ses-batailles/) - Thomas Broyer - 16 octobre 2023
 - [L’API Green Score, une innovation pour les APIs Numériquement responsables](https://www.collectif-api-thinking.com/?article=6) - Collectif API Thinking - 2 février 2023
 - [Empreinte carbone du cloud : Amazon, Microsoft et Google ont-ils la tête dans les nuages ?](https://www.carbone4.com/analyse-empreinte-carbone-du-cloud) - Carbone4 - 31 mai 2022

@@ -33,6 +33,7 @@ Une liste de liens sur le [numérique responsable](https://www.greenit.fr/defini
 
 ## Rapports
 
+  - [Business Case for Digital Sustainability](https://bc4ds.laudevsat.fr/) - A collection of real-world stories showing the measurable and non-measurable benefits of digital sustainability for organisations, their users and the planet. Inspired by wpostats.com."
 - [Obsolescence logicielle et matérielle : recommandations internes aux organisations et propositions aux fournisseurs](https://www.cigref.fr/obsolescence-logicielle-et-materielle-recommandations-et-propositions) -  Cigref - 22 octobre 2021
 - Impact environnemental du numérique : tendances à 5 ans et gouvernance de la 5G - The Shift Project, mars 2021 : [Note d'analyse - 47 p.](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf) ; [Note de synthèse - 8p.](https://theshiftproject.org/wp-content/uploads/2021/03/Synthese_Numerique-et-5G_30-mars-2021.pdf) 
 - [Feuille de route du Gouvernement "Numérique & Environnement, faisons converger les transitions"](https://www.economie.gouv.fr/files/files/PDF/2021/Feuille_de_route_Numerique_Environnement.pdf) - 23 février 2021
@@ -186,6 +187,7 @@ service - 2021
 - Auditeurs
   - [AI Energy Score](https://huggingface.co/spaces/AIEnergyScore/Leaderboard) - comparable energy efficiency ratings for AI models
   - [NumEcoEval](https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/fiches/numecoeval/) - NumEcoEval est une solution permettant de calculer l’empreinte environnementale d’un système d’information.
+
 
 ## Manifeste
 

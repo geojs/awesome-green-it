@@ -193,6 +193,7 @@ service - 2021
 
 ## Awesome lists
 
+- https://github.com/greenit-community/awesome-numerique-responsable
 - https://github.com/supertanuki/numeriqueEcoResponsable
 - https://github.com/alvessteve/awesome-green-it/
 - https://gitlab.inria.fr/qguillot/greenit-resources
